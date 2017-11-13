@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quantity
+1,MacBook Air 13",Mac,900,20
+2,MacBook Pro 15",Mac,3000,15
+3,iMac 27",Mac,2000,40
+4,Mac Pro,Mac,2500,25
+5,iPad Pro 9.7" Wi-Fi 32 GB - Space Gray,iPad,500,5
+6,iPad Mini 4 Wi-Fi + Cellular 16GB - Gold,iPad,400,10
+7,Apple Watch Series 2 42mm Space Black Stainless Steel Case With Black Sport Band,Apple Watch,500,25
+8,Apple TV 4K 64 GB,Apple TV,200,20
+9,iPhone X 256 GB Space Gray,iPhone,1150,35
+10,AirPods,iPhone Accessories,160,5
