@@ -1,6 +1,6 @@
 # UCLA_12-mySQL_Bamazon
 
-## Live Link (If relevant)
+## Live Link
 [![Bamazon Video](./bamazon_screenshot.png)](https://youtu.be/pW964SJIZxg)
 
 ## Description on how to use the app
